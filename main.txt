@@ -6,3 +6,4 @@ Cool fix
 It`s new big update in main
 xz
 New cool feature :)
+Stable update
