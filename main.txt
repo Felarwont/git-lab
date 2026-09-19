@@ -9,3 +9,4 @@ New cool feature :)
 Stable update
 squash test!
 again squash test
+Yes its conflict
