@@ -10,3 +10,4 @@ Stable update
 squash test!
 again squash test
 Yes its conflict
+conflict
