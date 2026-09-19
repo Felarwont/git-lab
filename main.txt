@@ -11,3 +11,5 @@ squash test!
 again squash test
 Yes its conflict
 conflict
+rebase test
+fix
